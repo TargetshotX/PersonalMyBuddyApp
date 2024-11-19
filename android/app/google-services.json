@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508469295452",
+    "project_id": "themybuddyapp",
+    "storage_bucket": "themybuddyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508469295452:android:8653f464f2cded642ce999",
+        "android_client_info": {
+          "package_name": "com.example.mybuddyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmaQUKbk16AR3xP9wpM0-_BW7QhZXJ4l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
